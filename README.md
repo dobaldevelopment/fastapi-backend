@@ -1,4 +1,4 @@
-# Backend API con FastAPI 🚀
+# Backend API con FastAPI
 
 Este proyecto es un backend RESTful hecho con FastAPI, que incluye autenticación JWT, persistencia de datos con SQLite y SQLAlchemy, y un CRUD completo para Posts.
 
