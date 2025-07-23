@@ -51,7 +51,7 @@ Este repo nace como parte de mi proceso de aprendizaje en desarrollo backend, au
 📄 requirements.txt  
 📄 README.md
 
-## Cómo usar
+## ℹ️ Cómo usar
 
 1. Clonar este repositorio  
 2. Crear entorno virtual:
