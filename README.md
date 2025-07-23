@@ -1,14 +1,14 @@
-# Backend API con FastAPI
+# 🔐 Backend API con FastAPI
 
 Este proyecto es un backend RESTful hecho con FastAPI, que incluye autenticación JWT, persistencia de datos con SQLite y SQLAlchemy, y un CRUD completo para Posts.
 
-## Motivación del proyecto
+## ❓ Motivación del proyecto
 
 Mi objetivo fue consolidar conocimientos en **Python**, **FastAPI**, y autenticación segura con **JWT**, además de aplicar herramientas que uso frecuentemente como **Docker**, **GitHub Actions** y despliegue en la nube.
 
 Este repo nace como parte de mi proceso de aprendizaje en desarrollo backend, automatización y ciberseguridad. Construí algo funcional pero también escalable — una base que me sirva como punto de partida para proyectos más complejos.
 
-## Características
+## ⚙️ Características
 
 - Registro y login de usuarios
 - Hashing de contraseñas seguro con Bcrypt
