@@ -32,14 +32,27 @@ Este repo nace como parte de mi proceso de aprendizaje en desarrollo backend, au
 
 ## 📦 Estructura del proyecto
 
-📁 app/ 
-├── api/ 
-│ └── routes, models, schemas 
-├── core/ 
-│ └── config, security 
-├── db/ 
-│ └── database setup 📁 tests/ 
-├── unit + integration tests 📄 Dockerfile 📄 docker-compose.yml 📄 requirements.txt 📄 README.md
+📁 app/
+│
+├── 📁 api/
+│   ├── routes/
+│   ├── models/
+│   └── schemas/
+│
+├── 📁 core/
+│   ├── config/
+│   └── security/
+│
+├── 📁 db/
+│   └── database_setup/
+│
+📁 tests/
+│   └── unit_integration/
+│
+📄 Dockerfile
+📄 docker-compose.yml
+📄 requirements.txt
+📄 README.md
 
 ## Cómo usar
 
