@@ -51,6 +51,35 @@ Este repo nace como parte de mi proceso de aprendizaje en desarrollo backend, au
 📄 requirements.txt  
 📄 README.md
 
+## 🧪 Pruebas
+
+En progreso: Estoy integrando `Pytest` para validar endpoints, tokens y comportamiento de errores. También agregar exportación de reportes de cobertura.
+
+## ✍️ Notas personales
+
+Durante este proyecto aprendí a configurar JWT a fondo, manejar variables de entorno de forma segura, y automatizar pipelines con GitHub Actions. Tardé un poco en adaptar el Dockerfile para producción, pero ahora funciona como base para cualquier backend FastAPI que quiera escalar.
+
+Algunas ideas para próximos pasos:
+- Agregar roles y permisos
+- Exportar la documentación como PDF
+- Subir colección Postman para testing manual
+
+## 📎 Links útiles
+
+- [FastAPI Docs](https://fastapi.tiangolo.com/)
+- [JWT Intro](https://jwt.io/introduction)
+- [Docker Best Practices](https://docs.docker.com/develop/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+## 📣 Contacto
+
+🧑‍💻 Autor: **Adriel Dobal**  
+📧 Email: dobaladri5@gmail.com  
+🌐 GitHub: [Dobaldevelopment](https://github.com/dobaldevelopment)  
+🔗 LinkedIn: [Adriel Dobal]([https://www.linkedin.com/in/adriel-dobal](https://www.linkedin.com/in/adriel-a-j-dobal-%F0%9F%87%A6%F0%9F%87%B7-%F0%9F%87%BA%F0%9F%87%B8-93799b259/)
+
+---
+
 ## ℹ️ Cómo usar
 
 1. Clonar este repositorio  
@@ -81,33 +110,3 @@ Pydantic
 Uvicorn
 
 Passlib
-
-
-## 🧪 Pruebas
-
-En progreso: estamos integrando `Pytest` para validar endpoints, tokens y comportamiento de errores. También se agregará exportación de reportes de cobertura.
-
-## ✍️ Notas personales
-
-Durante este proyecto aprendí a configurar JWT a fondo, manejar variables de entorno de forma segura, y automatizar pipelines con GitHub Actions. Tardé un poco en adaptar el Dockerfile para producción, pero ahora funciona como base para cualquier backend FastAPI que quiera escalar.
-
-Algunas ideas para próximos pasos:
-- Agregar roles y permisos
-- Exportar la documentación como PDF
-- Subir colección Postman para testing manual
-
-## 📎 Links útiles
-
-- [FastAPI Docs](https://fastapi.tiangolo.com/)
-- [JWT Intro](https://jwt.io/introduction)
-- [Docker Best Practices](https://docs.docker.com/develop/)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-
-## 📣 Contacto
-
-🧑‍💻 Autor: **Adriel Dobal**  
-📧 Email: dobaladri5@gmail.com  
-🌐 GitHub: [Dobaldevelopment](https://github.com/dobaldevelopment)  
-🔗 LinkedIn: [Adriel Dobal]([https://www.linkedin.com/in/adriel-dobal](https://www.linkedin.com/in/adriel-a-j-dobal-%F0%9F%87%A6%F0%9F%87%B7-%F0%9F%87%BA%F0%9F%87%B8-93799b259/)
-
----
