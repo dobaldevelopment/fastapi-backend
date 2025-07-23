@@ -75,8 +75,8 @@ Algunas ideas para próximos pasos:
 
 🧑‍💻 Autor: **Adriel Dobal**  
 📧 Email: dobaladri5@gmail.com  
-🌐 GitHub: [Dobaldevelopment](https://github.com/dobaldevelopment)  
-🔗 LinkedIn: Adriel Dobal https://www.linkedin.com/in/adriel-dobal](https://www.linkedin.com/in/adriel-a-j-dobal-%F0%9F%87%A6%F0%9F%87%B7-%F0%9F%87%BA%F0%9F%87%B8-93799b259/)
+🌐 GitHub: [Dobaldevelopment] (https://github.com/dobaldevelopment)  
+🔗 LinkedIn: [Adriel Dobal] [(https://www.linkedin.com/in/adriel-a-j-dobal-%F0%9F%87%A6%F0%9F%87%B7-%F0%9F%87%BA%F0%9F%87%B8-93799b259/])
 
 ---
 
