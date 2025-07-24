@@ -8,6 +8,8 @@ Mi objetivo fue consolidar conocimientos en **Python**, **FastAPI**, y autentica
 
 Este repo nace como parte de mi proceso de aprendizaje en desarrollo backend, automatización y ciberseguridad. Construí algo funcional pero también escalable — una base que me sirva como punto de partida para proyectos más complejos.
 
+Esto es una réplica personalizada para practicar software. No es copy-paste, sino una forma de iterar sobre lo aprendido.
+
 ## ⚙️ Características
 
 - Registro y login de usuarios
